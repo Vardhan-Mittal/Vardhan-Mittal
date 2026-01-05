@@ -17,20 +17,18 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/vardhan-mittal-0a0ab6227/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>&nbsp;&nbsp;
-  
+
   <a href="mailto:logicalmittal@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
-         alt="Gmail" width="35" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35"/>
   </a>&nbsp;&nbsp;
-  
+
   <a href="https://leetcode.com/<your-leetcode-username>/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         alt="LeetCode" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35"/>
   </a>
 </p>
+
 
 
 ---
@@ -44,16 +42,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vardhan-Mittal&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vardhan-Mittal&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vardhan-Mittal&show_icons=true&theme=radical&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Vardhan-Mittal&theme=radical&border_radius=10" width="48%" />
 </p>
+
 
 ---
 
 ### 🧠 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-Mittal&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-Mittal&layout=compact&theme=radical&langs_count=8" />
 </p>
+
 
 ---
 
