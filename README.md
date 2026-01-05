@@ -41,19 +41,30 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vardhan-Mittal&show_icons=true&theme=radical&cache_seconds=86400" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Vardhan-Mittal&theme=radical&border_radius=10" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Vardhan-Mittal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Vardhan-Mittal&theme=radical"
+    height="170"
+  />
 </p>
+
 
 
 ---
 
 ### 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-Mittal&layout=compact&theme=radical&langs_count=8" />
-</p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-Mittal&layout=compact&theme=radical&hide_progress=true"
+    height="160"
+  />
+</p>
 
 ---
 
