@@ -3,6 +3,9 @@
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=Vardhan-Mittal&style=flat-square&color=blue" />
+
+
 ### 👨‍💻 About Me
 - 🎓 B.Tech in Electronics & Communication Engineering (ECE)
 - 💻 Strong in **DSA, C++, Machine Learning & Full Stack**
