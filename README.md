@@ -24,7 +24,7 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/<your-leetcode-username>/" target="_blank">
+  <a href="https://leetcode.com/u/vardhan_mittal/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35"/>
   </a>
 </p>
